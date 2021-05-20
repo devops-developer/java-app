@@ -8,6 +8,9 @@ public class HelloWorld {
     System.out.println("Happy Ugadi.....");
     System.out.println("Happy sankranti");
     System.out.println("Happy sankranti");
+     System.out.println("Happy Ugadi.....");
+    System.out.println("Happy sankranti");
+    System.out.println("Happy Ugadi.....");
   
 
   }
